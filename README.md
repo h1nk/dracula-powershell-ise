@@ -18,4 +18,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.txt)
